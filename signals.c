@@ -4,7 +4,6 @@
 #include <unistd.h>
 #include <signal.h>
 #include <fcntl.h>
-#include "signals.h"
 
 static void sighandler(int signo){
 
